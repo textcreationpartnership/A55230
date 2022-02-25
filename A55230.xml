@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the Satyr against mankind</title>
+            <author>Pocock, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55230</idno>
+            <idno type="STC">Wing P2664</idno>
+            <idno type="STC">ESTC R17356</idno>
+            <idno type="EEBO-CITATION">12395051</idno>
+            <idno type="OCLC">ocm 12395051</idno>
+            <idno type="VID">61113</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61113)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 287:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the Satyr against mankind</title>
+                  <author>Pocock, Richard.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to R. Pocock by Wing.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rochester, John Wilmot, --  Earl of, 1647-1680. --  Satyr against mankind.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:61113:1" rendition="simple:additions"/>
+            <head>AN ANSVVER TO THE SATYR AGAINST MANKIND.</head>
+            <lg>
+               <l>WERE I to chuſe what ſort of Corps I'de wear,</l>
+               <l>Not Bear or Dog, Lord Monkey, or a Dear;</l>
+               <l>But I'de be Man, not as I am the worſt;</l>
+               <l>But Man reſin'd ſuch as he was at firſt.</l>
+               <l>The ſpeechleſs ſtate of Brutes I would refuſe,</l>
+               <l>For the ſame cauſe another doth it chuſe,</l>
+               <l>For then the Reputation I ſhould looſe</l>
+               <l>Of Wit, Extravigance, and Mode, from whence</l>
+               <l>Reaſon is made to truckle under ſenſe.</l>
+            </lg>
+            <lg>
+               <l>Or if to ſenſe I did ſo much incline,</l>
+               <l>I'de rather be a Satyr, Goat, or Swine,</l>
+               <l>To help to break the Court-Phyſicians, who</l>
+               <l>Beſides compounding Luſts have nought to do.</l>
+               <l>Nature (exceeding Broths) would then excite</l>
+               <l>Supplys to make a full-meal'd appetite,</l>
+               <l>No Bug-bear Conſcience dulling the delight.</l>
+            </lg>
+            <lg>
+               <l>But what needs ſuch a Metamorphoſis?</l>
+               <l>Man, being Man, can do even more than this,</l>
+               <l>Granting the Principle, that Reaſons uſe</l>
+               <l>Is not to curb, but make Senſe more profuſe.</l>
+               <l>For though Mans Senſe leſs vigorous is than Brutes,</l>
+               <l>His Pander-Reaſon can contrive Recruites</l>
+               <l>For its defects: What Sins the Senſual Man</l>
+               <l>Can't do alone, the Reaſonable can</l>
+               <l>With uſeful Wit; for ſenſuality</l>
+               <l>An half-unfaſhion'd Sinner doth deſcry:</l>
+               <l>He's Modiſhly debauch'd, who can tell why?</l>
+               <l>
+                  <pb n="2" facs="tcp:61113:2" rendition="simple:additions"/>
+That ſpurs up ſlow-pac'd Luſt by Argument,</l>
+               <l>Which to tyr'd ſenſe gives no divertiſement,</l>
+               <l>But calls for more when all its ſin is ſpent.</l>
+               <l>And though the flagging wretch would be content</l>
+               <l>(Diſſabl'd for more Vice) now to Repent;</l>
+               <l>Upbraiding Reaſon checks the puny motion,</l>
+               <l>Bids it chear up, and gives it t'other Potion:</l>
+               <l>Till after all, when Nature hath given o're,</l>
+               <l>And Art can Buoy up Aged Senſe no more.</l>
+               <l>Reaſon reſerves this Remedy at laſt,</l>
+               <l>To think thoſe Pleaſures, which it cannot taſt.</l>
+               <l>In this the thinking Fool may become wiſe,</l>
+               <l>And yet think on, ſo that his thinking lies</l>
+               <l>In Notions of Venerial Myſteries.</l>
+               <l>Hence ſprang the Reaſoning Art in former days</l>
+               <l>Of <hi>Spintriae Oſcis:</hi> and the Modern ways</l>
+               <l>By Baths, Laſcivious Pictures, Giggs and Plays.</l>
+            </lg>
+            <lg>
+               <l>If this be Reaſon's uſe, no more we'l call</l>
+               <l>
+                  <hi>Clodius</hi> incontinent, but Rational,</l>
+               <l>And boaſt the Reaſon of <hi>Sardanopal.</hi>
+               </l>
+               <l>Reaſon Nick-nam'd like Quaker's new-found Light;</l>
+               <l>One while call'd Spirit, <hi>alias</hi> Appetite.</l>
+               <l>A ſtupid Reaſon which none will defend,</l>
+               <l>But he that hath with Brutes one common end.</l>
+               <l>Debaſing Reaſon! Coupling ev'ry Aſs,</l>
+               <l>Even with my Lord in the ſame reaſoning claſs.</l>
+            </lg>
+            <lg>
+               <l>I'le be no Stud'ent in this Learned School,</l>
+               <l>I'de rather be the humane thinking Fool,</l>
+               <l>The Cloiſter'd Coxcomb able to Converſe,</l>
+               <l>(Although alone) with the whole Univerſe,</l>
+               <l>And reaſoning into Heaven, mount from thence</l>
+               <l>Poſt Gazetts of Divine Intelligence,</l>
+               <l>And Sacred knowledge moſt remote from ſenſe.</l>
+               <l>Might I be plac'd in that exploded Sphear,</l>
+               <l>I'de not alone forgive that witty Jeer,</l>
+               <l>But boaſt the Name of Reaſoning Engineer.</l>
+            </lg>
+            <lg>
+               <l>But as for Man made perfect and upright,</l>
+               <l>Why not the Image of the Infinite?</l>
+               <l>Were this ſcandal to his Glory; muſt</l>
+               <l>We for his Honours ſake his word diſtruſt?</l>
+               <l>Or is an Image ſuch a very ſame</l>
+               <l>With what it repreſents? that it muſt claim</l>
+               <l>It's full Perfections? Sure my Picture might</l>
+               <l>Be Painted like me, and yet void of ſight.</l>
+               <l>Muſt the firſt draught of Man be vilify'd,</l>
+               <l>Scorn'd and contemn'd, 'cauſe Man himſelf hath ſtray'd?</l>
+               <l>Or did not <hi>Eve</hi> ſufficiently tranſgreſs,</l>
+               <l>And Baſtardiſe Poſterity? unleſs</l>
+               <l>Man, little as he is, be made much leſs.</l>
+               <l>Though he doth not his higher end purſue</l>
+               <l>So well as doth the more Ignoble Crew</l>
+               <l>Of Birds and Beaſts (that little have to do.)</l>
+               <l>The difficulty of his lofty end,</l>
+               <l>Above the others doth his cauſe defend,</l>
+               <l>
+                  <pb n="3" facs="tcp:61113:2" rendition="simple:additions"/>
+And in the means a diſproportion pleads,</l>
+               <l>Choyce ſways the one, inſtinct the other leads.</l>
+               <l>'Tis not 'cauſe Jowlers wiſe he takes the Hare</l>
+               <l>But 'tis becauſe Jowler cannot forbear,</l>
+               <l>Though in the Chair of State ſome lolling ſit</l>
+               <l>That therefore none can ſit upright in it,</l>
+               <l>Is an ill Conſequence and void of wit.</l>
+            </lg>
+            <lg>
+               <l>But you your ſelf have taught Man ſuch a way</l>
+               <l>Unto his happineſs, that he muſt ſtray,</l>
+               <l>For if his ſenſe muſt uſher in his reſt,</l>
+               <l>And never be abridg'd of its requeſt,</l>
+               <l>He may be drunk and Pockey, but ne're bleſt.</l>
+            </lg>
+            <lg>
+               <l>As for Pride-gendering Philoſophy</l>
+               <l>(A captious word) 'tis what you'l have it be,</l>
+               <l>Its own diſtinctions have an art to ſhew</l>
+               <l>'Tis good or bad, or neither as pleaſe you.</l>
+               <l>Some Sects love Wrangling, others Pedantrie</l>
+               <l>Yet in the love of Wiſdom all agree,</l>
+               <l>Wiſdom which all acknowledge to be good,</l>
+               <l>But hath the fate to be miſunderſtood;</l>
+               <l>Yet though Fools crowd among Philoſophers,</l>
+               <l>The fault is not the Sciences but their's.</l>
+               <l>With all their flaws our '<hi>Bedlam</hi>-ſchools I'de chuſe</l>
+               <l>Before the madder Taverns, lewder Stews.</l>
+            </lg>
+            <lg>
+               <l>Though both are Slaves, I rather do reſpect</l>
+               <l>The <hi>Stoick</hi> than <hi>Epicurean</hi> Sect.</l>
+               <l>If Senſe or Reaſon, one muſt be deny'd,</l>
+               <l>Reaſon would tell me, Reaſon muſt abide</l>
+               <l>The leſs obnoxious and the ſureſt guide—</l>
+               <l>But ſince kind Nature hath deſign'd them both,</l>
+               <l>For humane complement, I ſhould be loth</l>
+               <l>To give up blindfold ſenſe to its own Will,</l>
+               <l>Or grant a Tyrant Reaſon leave to kill</l>
+               <l>Such uſefull Faculties: My Reaſon ſhall</l>
+               <l>Govern my ſubject Senſe, but not Enthrall.</l>
+               <l>Nor ſhall Officious Senſe preſume to act,</l>
+               <l>Till Juſtice Reaſon authoriſe the fact.</l>
+            </lg>
+            <lg>
+               <l>That Humane Naure is corrupt I grant,</l>
+               <l>But was't the uſe of Reaſon or the want,</l>
+               <l>That puff't out the warm breath of love? from whence</l>
+               <l>Sprang Murther firſt, but from malitious Senſe?</l>
+               <l>Which having once Uſurp't Queen Reaſons Throne,</l>
+               <l>Was not contented with one ſin alone,</l>
+               <l>But falling headlong, plainly ſhews (alas)</l>
+               <l>By too too fatall proof, that that which was</l>
+               <l>The beſt, corrupted, to the worſt doth paſs.</l>
+            </lg>
+            <lg>
+               <l>Hence the acuteſt Wits when they're defil'd</l>
+               <l>Turn moſt extravagant, prophane and wild,</l>
+               <l>Defend Debaucheries, and Senſe advance,</l>
+               <l>To reaſon Reaſon out of countenance,</l>
+               <l>Making their knowledge worſe than ignorance.</l>
+            </lg>
+            <lg>
+               <l>But muſt Humanity be quite eraſe't,</l>
+               <l>Becauſe it is from what it was deface't?</l>
+               <l>
+                  <pb n="4" facs="tcp:61113:3"/>
+Or muſt the little Reaſon men yet hold</l>
+               <l>For their improvement, be for Dogs-fleſh ſold?</l>
+               <l>Sometimes the Gameſter whom ill Fortune croſſes,</l>
+               <l>With his laſt ſtake recovers all his loſſes.</l>
+               <l>He's but a weak Phyſitian that gives o're</l>
+               <l>His weaker Patient whom he might reſtore,</l>
+               <l>But may he ſuffer an Eternal Curſe,</l>
+               <l>That dares preſcribe a remedy that's worſe</l>
+               <l>Than the diſeaſe it ſelf; when Jowlers lame,</l>
+               <l>No one expects that he ſhould kill the Game,</l>
+               <l>But that he may hereafter, I am ſure</l>
+               <l>'Tis beſt not to cut off his leg, but cure.</l>
+               <l>He that feels qualmes of Conſcience in his Breaſt,</l>
+               <l>Let him not barter Reaſon with a Beaſt,</l>
+               <l>But purge out Guilt, with which he is oppreſs't</l>
+               <l>That honeſty's againſt all common ſenſe,</l>
+               <l>Is a good Argument for my defence,</l>
+               <l>If ſenſe with that which hath ſo great a fame</l>
+               <l>Be inconſiſtent, ſenſe is much to blame,</l>
+               <l>And Reaſon will (ſpight of your rime and tide</l>
+               <l>Of Ink, Wit and Contempt) more firm abide</l>
+               <l>For having ſuch a vertue on her ſide.</l>
+            </lg>
+            <lg>
+               <l>And valour too takes part with her, for ſenſe</l>
+               <l>(As you contrive it) puts no difference</l>
+               <l>Between the Valiant that are ſo for fear,</l>
+               <l>And Cowards that would be, but do not dare;</l>
+               <l>Reaſon could ne're frame ſuch a witty thing,</l>
+               <l>That men ſhould fight for fear of quarrelling.</l>
+               <l>All men you ſay for Fools or Knaves muſt go</l>
+               <l>And he's a man himſelf that calls them ſo,</l>
+               <l>And being Man is at his own Choice free,</l>
+               <l>Or in the rank of Fools or Knaves to be,</l>
+               <l>Let him be either or elſe both for me.</l>
+            </lg>
+            <lg>
+               <l>But let me, Sir, requeſt before you ſlip</l>
+               <l>Into your Dog, or Bear, or Monky-ſhip,</l>
+               <l>Whether you think their brutiſh form procures</l>
+               <l>Any advantages exceeding yours?</l>
+               <l>Both Dog and Bear as well as men will fight,</l>
+               <l>And (to no purpoſe too) each other bite,</l>
+               <l>And as for Puggy all his vertues lye</l>
+               <l>In Aping Man, the only thing you fly.</l>
+               <l>The wiſeſt way theſe evils to redreſs,</l>
+               <l>Is to be what you are, nor more, nor leſs</l>
+               <l>(That is) not Man, Dog, Bear, nor Monky neither,</l>
+               <l>But a rare ſomething of them all together.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
